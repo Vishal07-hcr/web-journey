@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Journey</title>
+</head>
+<body>
+    <h1>Vishal & Aviral Web Journey</h1>
+    <p>Day 1 – Git Setup Complete 🚀</p>
+</body>
+</html>
